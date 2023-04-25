@@ -63,7 +63,9 @@ h1{
     width: 70%;
 }
 ul li button{
-    padding: 2px;
+    padding: 5px;
+    display: block;
+    border: 0px;
 }
 ul a button{
     display: block;
