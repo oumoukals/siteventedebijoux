@@ -1,0 +1,116 @@
+body{
+    background-color: blanchedalmond;
+}
+.container0{
+    background-color: white;
+    margin: 150px;
+    width: 1050px;
+    height: 1000px;
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
+ul li a{
+    letter-spacing: 1px;
+    color: black;
+    text-decoration: none;
+}
+ a:hover{
+    color: rgb(172, 128, 18);
+    text-decoration: underline;
+    
+}
+menu li{
+    float: left;
+    padding: 35px;
+}
+div li{
+    list-style-type: none;
+}
+div button{
+    
+    padding: 7px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+div span button{
+    text-align: left;
+    padding:20px ;
+    margin-left: 10px;
+}
+img {
+    width: 65%;
+    padding: 40px;
+    float: right;
+}
+h1{
+    font-family: 'Lobster', cursive;
+    font-size: 70px;
+    padding: 70px;
+    
+    
+}
+.container .text {
+    
+    z-index: 1;
+    position: absolute;
+    text-align: center;
+    margin: 0 auto;
+    left: 0px;
+    right: 300px;
+    top: 30%;
+    width: 70%;
+}
+ul li button{
+    padding: 2px;
+}
+ul a button{
+    display: block;
+}
+.container1{
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+}
+    
+    
+
+.img2{
+    width: 300px;
+    height: 300px;
+    border-radius: 85px;
+}
+    
+.p1{
+    font-family:  'Lobster', cursive;
+    font-size: 30px;
+}
+.p2{
+    padding: 12px;
+    margin-bottom: 15px;
+
+}
+
+
+.textblanc {
+    color: white;
+}
+.container2{
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.img3{
+    width: 300px;
+    height: 300px;
+    border-radius: 85px;
+}
+.p3{
+    font-family:  'Lobster', cursive;
+    font-size: 30px;
+}
+.in{
+    display: flex;    
+}
